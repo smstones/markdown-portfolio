@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+Favorite places to eat:
+* Muto
+* The Racket
+* Cafe Rumba
+* Ahaar
+* Chang's
+* George's Bakery
+* Rice
+* Taco Del Mar
